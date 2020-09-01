@@ -1,16 +1,12 @@
-### Hi there 👋
+<p>
+  <a href="(https://twitter.com/metalmini">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/valentinsilves?label=Follow&logo=twitter">
+  </a>
+</p>
 
-<!--
-**metalmini/metalmini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Full Stack Software Engineer
+- 🌱 Technologies I love to learn about: Symfony, Api Platform, Laravel, PHPStan, CI/CD.
+- 📚 Bachlers degree Interactive Media obtained in 2000 at [Hogeschool Van Amsterdam](https://www.cmd-amsterdam.nl/)
+- 📫 Find me on [Twitter](https://twitter.com/metalmini) and [LinkedIn](https://www.linkedin.com/in/michaelschouman/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![metalmini's github stats](https://github-readme-stats.vercel.app/api?username=metalmini&count_private=1)](https://github.com/metalmini)
