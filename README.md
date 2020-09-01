@@ -1,9 +1,3 @@
-<p>
-  <a href="(https://twitter.com/metalmini">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/valentinsilves?label=Follow&logo=twitter">
-  </a>
-</p>
-
 - 🔭 Full Stack Software Engineer
 - 🌱 Technologies I love to learn about: Symfony, Api Platform, Laravel, PHPStan, CI/CD.
 - 📚 Bachlers degree Interactive Media obtained in 2000 at [Hogeschool Van Amsterdam](https://www.cmd-amsterdam.nl/)
